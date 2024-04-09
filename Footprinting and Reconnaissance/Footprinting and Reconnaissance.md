@@ -11,7 +11,7 @@ Footprinting is used to gather maximum information of the computer system or the
 + System Information - OS, webservers, technology's and applications used.
 
 ## Footprinting Methodology
-![footprinting](https://github.com/Kr1shna02/CEH-v12/assets/117007783/e1fda30d-11d3-468b-9dbb-295ff9acec1b)
+![footprinting](https://github.com/kr1shna02/hack-flow/assets/117007783/1f304ca4-9e0c-4dbe-a77e-2fb703f556b1)
 
 # Footprinting through Search Engines
 ## Footprinting Using Advanced Google Hacking Techniques
@@ -47,8 +47,7 @@ Any Keyword can be specified before the operator.It is used to search for partic
 ## Google Hacking Database 
 In the GHDB, you will find search terms for files containing usernames, vulnerable servers, and even files containing passwords
 
-![google](https://github.com/Kr1shna02/CEH-v12/assets/117007783/07532c12-23fb-402e-879e-f1770e62f2c0)
-
+![google](https://github.com/kr1shna02/hack-flow/assets/117007783/02574c84-2db7-48ec-b158-28676607e4e1)
 
 ## Other Techniques for Footprinting through Search Engines 
 + [advanced_search](https://www.google.com/advanced_search)
@@ -64,9 +63,7 @@ In the GHDB, you will find search terms for files containing usernames, vulnerab
 + [Sublist3r](https://github.com/aboul3la/Sublist3r)
 + [Pentest-Tools](https://pentest-tools.com)
   
-![pentest](https://github.com/Kr1shna02/CEH-v12/assets/117007783/c19a28f8-b504-4095-9714-3be31b2d7eb9)
-
-
+![pentest](https://github.com/kr1shna02/hack-flow/assets/117007783/fb60b48d-adac-4dc0-a7a2-ba087ecedea3)
 
 ## Harvesting Email Lists
 Tools:
@@ -75,7 +72,7 @@ Tools:
 Tools:
 + Netcraft
   
-  ![netcraft](https://github.com/Kr1shna02/CEH-v12/assets/117007783/452b0eb3-beaf-4175-86ed-6383d43fe68a)
+![netcraft](https://github.com/kr1shna02/hack-flow/assets/117007783/9278d33c-f3d8-4309-baeb-e3089d9e1ce5)
 + shodan
 + [censys](https://search.censys.io/)
 
@@ -127,7 +124,7 @@ Tools:
 
 # DNS Footprinting
 
-![dns](https://github.com/Kr1shna02/CEH-v12/assets/117007783/c026a113-b6f0-4efa-bb73-81314bff6ef4)
+![dns](https://github.com/kr1shna02/hack-flow/assets/117007783/5c79b65f-495d-4ecc-bab7-14070f1f92cf)
 
 Tools:
 + [SecurityTrails](https://securitytrails.com )
@@ -160,7 +157,7 @@ Tools :
 # Common Footprinting Tools
 + Maltego
 
-![maltego](https://github.com/Kr1shna02/CEH-v12/assets/117007783/bcd87d20-6c18-4dd7-a5ac-23856d07aa29)
+![maltego](https://github.com/kr1shna02/hack-flow/assets/117007783/c84ba400-1546-4bea-bcaa-7a1ac4db8a23)
 
 + [Recon-ng](https://hackertarget.com/recon-ng-tutorial/)
 + [FOCA](https://www.elevenpaths.com)
