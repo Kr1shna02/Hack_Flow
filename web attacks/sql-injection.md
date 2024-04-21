@@ -15,9 +15,9 @@ SQL injection can be used to implement the following attacks:
 
 Below Diagrams shows the difference
 
-![s](https://github.com/kr1shna02/CEH-v12/assets/117007783/574e03e7-70dc-4172-8b99-6f97a40d8fb1)
+![1](https://github.com/Kr1shna02/hack-flow/assets/117007783/56a7eccb-ac13-45f9-8405-cd96f87eac36)
 
-![s1](https://github.com/kr1shna02/CEH-v12/assets/117007783/56c15573-0295-4a0d-8923-6d070df1e2e2)
+![2](https://github.com/Kr1shna02/hack-flow/assets/117007783/093b3c70-1d4c-4140-84c9-2da97347132f)
 
 # Types of SQL Injection
 
@@ -28,13 +28,13 @@ SQL injection relies on boolean-based queries, without direct error feedback, to
 +  Out-of-Band SQL Injection:
 Out-of-Band SQL Injection involves exploiting vulnerabilities to initiate data exfiltration or command execution via alternative communication channels, circumventing traditional in-band methods.
 
-![t](https://github.com/kr1shna02/CEH-v12/assets/117007783/dd6c8b2d-e4cb-429d-aa94-50c1d3d12c2f)
+![3](https://github.com/Kr1shna02/hack-flow/assets/117007783/34a992a6-5dc6-423b-be1d-601ed2cfca44)
 
 Piggybacked Query attack: In piggybacked SQL injection, attackers append a malicious query to the original one, exploiting batched SQL queries by using semicolons as delimiters to inject additional commands.
 ```sql
  SELECT * FROM EMP WHERE EMP.EID = 1001 AND EMP.ENAME = ’Bob’; DROP TABLE DEPT;
 ```
-## Link for the detailed explanation of all attacks = [Portswigger labs](https://github.com/kr1shna02/portSwigger-labs/tree/main/SQL%20injection)
+## Link for the detailed explanation of all attacks = [Portswigger labs)(https://portswigger.net/web-security/sql-injection)
 ## Fuzz Testing 
 
 It is an adaptive SQL injection testing technique used to discover coding errors by inputting a massive amount of random data and observing the changes in the output. 
