@@ -34,7 +34,7 @@ Piggybacked Query attack: In piggybacked SQL injection, attackers append a malic
 ```sql
  SELECT * FROM EMP WHERE EMP.EID = 1001 AND EMP.ENAME = ’Bob’; DROP TABLE DEPT;
 ```
-## Link for the detailed explanation of all attacks = [Portswigger labs)(https://portswigger.net/web-security/sql-injection)
+## Link for the detailed explanation of all attacks = [Portswigger labs](https://portswigger.net/web-security/sql-injection)
 ## Fuzz Testing 
 
 It is an adaptive SQL injection testing technique used to discover coding errors by inputting a massive amount of random data and observing the changes in the output. 
