@@ -1,1 +1,1 @@
-This repository contains various attacks and methodologies.
+This repository contains various attacks and Hacking methodologies.
