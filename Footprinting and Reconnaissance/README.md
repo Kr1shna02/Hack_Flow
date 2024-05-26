@@ -4,6 +4,8 @@ It provides information on various footprinting ,social engineering and OSINT te
 2. Network Footprinting
 3. Website Footprinting
 4. Email Footprinting
-5. Social Engineering
-6. Search Engine Footprinting
+5. Search Engine Footprinting
+
+
+
 
