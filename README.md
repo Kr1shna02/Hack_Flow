@@ -1,1 +1,1 @@
-This repository includes different attack methods and hacking techniques typically employed in the CEH exam.
+This repository includes different attack methods and hacking techniques typically employed in the CEHv12 exam.
