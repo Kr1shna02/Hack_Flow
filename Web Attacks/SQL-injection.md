@@ -22,14 +22,11 @@ Below Diagrams shows the difference
 # Types of SQL Injection
 
 +  In-band SQL Injection:
-Same-channel injection and retrieval.Error-based and UNION SQL injection are prevalent in-band techniques.
-
+  Same-channel injection and retrieval.Error-based and UNION SQL injection are prevalent in-band techniques.
 +  Blind/Inferential SQL Injection:
-  
-Error-free boolean-based data retrieval.
+  Error-free boolean-based data retrieval.
 +  Out-of-Band SQL Injection:
-
-Data exfiltration via side/alternate channels.
+  Data exfiltration via side/alternate channels.
 
 ![3](https://github.com/Kr1shna02/hack-flow/assets/117007783/34a992a6-5dc6-423b-be1d-601ed2cfca44)
 
