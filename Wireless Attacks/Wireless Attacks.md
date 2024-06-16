@@ -13,6 +13,7 @@
 + aLTEr attack
   
   ![2](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/08a6bd42-d573-40a0-a701-d161aab916b4)
+  + To prevent encrypt DNS traffic
 
 + De-authentication 
 
@@ -40,3 +41,7 @@
   ![2](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/04a6ddf6-9e0f-461c-a5c0-7d7e3fb49ae5)
 
 + Wifi Jacking attack
++ Bluetooth
+  + Bluetooth enable devices connects each other using pairing.
+  + Bluetooth-enabled devices connect and communicate wirelessly through ad-hoc networks known as piconets.
+  + Bluesmacking, Bluejacking, Bluesnarfing, Bluebugging, KNOB attack
