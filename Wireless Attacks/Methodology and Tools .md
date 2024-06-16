@@ -21,4 +21,9 @@
 + Elcomsoft Wireless Security Auditor encrytion decrpyter - https://www.elcomsoft.com
 + Omnipeek Network Protocol Analyzer - https://www.liveaction.com
 + CommView for Wi-Fi -  https://www.tamos.com
+
+### Wifi security auditing
++ Cisco Adaptive Wireless IPS
++ WatchGuard Wi-Fi Cloud WIPS
+
  
