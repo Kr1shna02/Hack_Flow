@@ -1,5 +1,8 @@
 ### Now aircrack-ng will crack the WEP key captured in the .pcap file
 
++ Here the packets need to be captured during connection of the user to access point
++ If already coonect we de-authentucate the user and make him again to connect
+  
 ![1](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/4c8d61f0-3ee8-49d0-8625-c0a7f60247c2)
 
 ### Output
