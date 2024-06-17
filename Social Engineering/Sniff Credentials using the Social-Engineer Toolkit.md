@@ -1,6 +1,6 @@
 ## Social Engineering Toolkit
 
-SET offers various attacks on social engineering  https://github.com/trustedsec/social-engineer-toolkit
+SET provides a range of social engineering attacks https://github.com/trustedsec/social-engineer-toolkit
 
 + type ./settoolkit after downloding the repository
 + select option 1
@@ -25,7 +25,7 @@ SET offers various attacks on social engineering  https://github.com/trustedsec/
 
 
 
-Now that the website has been cloned onto your machine, we can present this website to users as legitimate in order to obtain their usernames and passwords.
+Now that the website has been replicated on your machine, we can present it to users as authentic to gather their usernames and passwords.
 + Create a fake gmail with a link pointing to the cloned website
 
   ![5](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/c7b68daa-f174-435d-83ad-2c473c416f44)
