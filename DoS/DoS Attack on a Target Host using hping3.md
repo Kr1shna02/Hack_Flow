@@ -8,6 +8,7 @@ SYN-attack
 - --flood: sends a huge number of packets.
 
 Traffic in target system
+
 ![2](https://github.com/Kr1shna02/hack-flow/assets/117007783/a7fc8bd1-7e1e-44f0-af1a-ef9aac90aa90)
 
  PoD attack -In ping we send huge data
