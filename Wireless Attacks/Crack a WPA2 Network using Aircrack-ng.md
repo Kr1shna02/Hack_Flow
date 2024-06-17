@@ -4,7 +4,11 @@
 + Here the packets need to be captured during connection of the user to access point
 + If already coonect we de-authentucate the user and make him again to connect
 + Cracks keys shared using EAPOL protocal
-  
+
+### Captured Traffic
+
+![1](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/5c4bbb23-d458-4385-9b61-80aeba761d96)
+
 ### command
 
 ![1](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/398cc8bb-ca37-4e54-8219-2b7d72844b12)
