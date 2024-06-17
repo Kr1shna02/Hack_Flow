@@ -13,7 +13,7 @@
 + Here we analysis traffic to get information about the wifi protocols, encryption etc.
 + Wireshark
   ### Spectrun Analysis
-  +  RF Explorer
+  +  RF Explorer - http://rfexplorer.com
 
 ### Attacks
 + Aircrack-ng Suite - https://www.aircrack-ng.org
