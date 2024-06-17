@@ -1,20 +1,20 @@
-# Footprinting Concepts
+## Footprinting Concepts
 Footprinting is used to gather maximum information of the computer system or the servers or persons we are going to attack.
 
-## Types :
+### Types :
 + Active Footprinting
 + Passive Footprinting
 
-## Information Obtained in Footprinting:
+### Information Obtained in Footprinting:
 + Organization Information - employee details, contact nos, about organisation etc.
 + Network Information - Domain and sub-domains, Network blocks, Network topology, trusted routers, and firewalls, Whois records, DNS records and related information
 + System Information - OS, webservers, technology's and applications used.
 
-## Footprinting Methodology
+### Footprinting Methodology
 ![footprinting](https://github.com/kr1shna02/hack-flow/assets/117007783/1f304ca4-9e0c-4dbe-a77e-2fb703f556b1)
 
-# Footprinting through Search Engines
-## Footprinting Using Advanced Google Hacking Techniques
+## Footprinting through Search Engines
+### Footprinting Using Advanced Google Hacking Techniques
 operator:serach_term
 Any Keyword can be specified before the operator.It is used to search for particular keyword in the particular searh query.
 + site -This operator restricts search results to the specified site or domain.
@@ -44,20 +44,20 @@ Any Keyword can be specified before the operator.It is used to search for partic
     - location:www.google.com
 + filetype -Search results with specified file formats only
     - filetype: pdf site: www.google.com
-## Google Hacking Database 
+### Google Hacking Database 
 In the GHDB, you will find search terms for files containing usernames, vulnerable servers, and even files containing passwords
 
 ![google](https://github.com/kr1shna02/hack-flow/assets/117007783/02574c84-2db7-48ec-b158-28676607e4e1)
 
-## Other Techniques for Footprinting through Search Engines 
+### Other Techniques for Footprinting through Search Engines 
 + [advanced_search](https://www.google.com/advanced_search)
 + [image_search](https://www.google.com/advanced_image_search)
 + [reverse image search](https://www.google.com/imghp)
 + [Iot Search engine -SHODAN](https://www.shodan.io/)
 
-# Footprinting through Web Services
-## Finding a Company’s Top-Level Domains (TLDs) and Sub-domains
-### Tools to Search Company’s Sub-domains
+## Footprinting through Web Services
+### Finding a Company’s Top-Level Domains (TLDs) and Sub-domains
+#### Tools to Search Company’s Sub-domains
 + [Netcraft](https://www.netcraft.com)
   
 + [Sublist3r](https://github.com/aboul3la/Sublist3r)
@@ -65,10 +65,10 @@ In the GHDB, you will find search terms for files containing usernames, vulnerab
   
 ![pentest](https://github.com/kr1shna02/hack-flow/assets/117007783/fb60b48d-adac-4dc0-a7a2-ba087ecedea3)
 
-## Harvesting Email Lists
+### Harvesting Email Lists
 Tools:
 + theHarvester
-## Determining the Operating System
+### Determining the Operating System
 Tools:
 + Netcraft
   
@@ -76,12 +76,12 @@ Tools:
 + shodan
 + [censys](https://search.censys.io/)
 
-# Footprinting through Social Networking Sites
+## Footprinting through Social Networking Sites
 Tools:
 +  [BuzzSumo](https://buzzsumo.com)
 +  [Followerwonk](https://followerwonk.com) 
 +  Sherlock
-# Website Footprinting 
+## Website Footprinting 
 Information gained:
 + Software used and its version
 + Operating system used
@@ -104,41 +104,41 @@ Methods:
 + Examining Cookies
 + Mirroring Entire Website
 
-# Email Footprinting
-## Tracking Email Communications
+## Email Footprinting
+### Tracking Email Communications
 + Recipient's System IP address
 +  Geolocation
 +  Email Received and Read
 +  Read Duration
 +  Links
-## Collecting Information from Email Header 
+### Collecting Information from Email Header 
 Tools:
 + Infoga
 + [eMailTrackerPro](http://www.emailtrackerpro.com)
 # Whois Footprinting
-## Whois Lookup
+### Whois Lookup
 Tools:
 + http://whois.domaintools.com
 + https://www.tamos.com
 + [Finding IP gelocation information  IP2Location ](https://www.ip2location.com)
 
-# DNS Footprinting
+## DNS Footprinting
 
 ![dns](https://github.com/kr1shna02/hack-flow/assets/117007783/5c79b65f-495d-4ecc-bab7-14070f1f92cf)
 
 Tools:
 + [SecurityTrails](https://securitytrails.com )
-## Reverse DNS Lookup 
+### Reverse DNS Lookup 
 Tools:
 + dnsrecon
 + [reverse lookup](https://mxtoolbox.com)
 
-# Network Footprinting
-## Locate the Network Range
+## Network Footprinting
+### Locate the Network Range
 Tool:
 [ARIN](https://www.arin.net/about/welcome/region)
 
-## Traceroute
+### Traceroute
 Methods:
 traceroute utility helps find the IP addresses of intermediate devices such as routers and firewalls present between a source and its destination.
 + ICMP Traceroute
@@ -150,11 +150,11 @@ traceroute utility helps find the IP addresses of intermediate devices such as r
 Tools :
 + [Path Analyzer Pro](https://www.pathanalyzer.com)
 + [VisualRoute ]( http://www.visualroute.com)
-# Footprinting through Social Engineering
+## Footprinting through Social Engineering
 + Eavesdropping
 + Shoulder Surfing
 + Dumpster Driving
-# Common Footprinting Tools
+## Common Footprinting Tools
 + Maltego
 
 ![maltego](https://github.com/kr1shna02/hack-flow/assets/117007783/c84ba400-1546-4bea-bcaa-7a1ac4db8a23)
