@@ -3,6 +3,7 @@
 + Wirless captured packets during authentication.
 + Here the packets need to be captured during connection of the user to access point
 + If already coonect we de-authentucate the user and make him again to connect
++ Cracks keys shared using EAPOL protocal
   
 ### command
 
