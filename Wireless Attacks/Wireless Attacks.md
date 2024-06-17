@@ -50,4 +50,4 @@
   + Bluetooth-enabled devices connect and communicate wirelessly through ad-hoc networks known as piconets.
   + Bluesmacking, Bluejacking, Bluesnarfing, Bluebugging, KNOB attack
   + Btlejacking Using BtleJack
-  + Cracking BLE Encryption Using crackle 
+  + Cracking BLE Encryption Using crackle - https://github.com/mikeryan/crackle/
