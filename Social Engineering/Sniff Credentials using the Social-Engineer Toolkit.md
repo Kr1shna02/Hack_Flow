@@ -1,6 +1,6 @@
 ## Social Engineering Toolkit
 
-SET offers various functions for social engineering  https://github.com/trustedsec/social-engineer-toolkit
+SET offers various attacks on social engineering  https://github.com/trustedsec/social-engineer-toolkit
 
 + type ./settoolkit after downloding the repository
 + select option 1
