@@ -1,4 +1,4 @@
-# Information gathering using Ghost Eye
+## Information gathering using Ghost Eye
 + Ghost Eye is an information-gathering tool written in Python 3. To run, Ghost Eye only needs a domain or IP
 + Ghost Eye gathers information such as Whois lookup, DNS lookup, EtherApe, Nmap port scan, HTTP header grabber, Clickjacking test, Robots.txt scanner, Link grabber, IP location finder, and traceroute.
 
@@ -12,7 +12,7 @@
 ![c](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/7f07a94a-a5fb-43d7-be39-255707844fa3)
 
 
-# Perform Web Server Reconnaissance using Skipfish
+## Perform Web Server Reconnaissance using Skipfish
 
 Skipfish is an active web application (deployed on a webserver) security reconnaissance tool. It prepares an interactive sitemap for the targeted site by carrying out a recursive crawl and dictionary-based probes. The resulting map is then annotated with the output from a number of active (but hopefully non-disruptive) security checks.
 
@@ -29,7 +29,7 @@ httprecon is a tool for advanced web server fingerprinting. This tool performs b
 
 ![g](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/71f6ecf2-e220-4d0c-a255-d9ee47b4b3ba)
 
-# Enumerate Web Server Information using Nmap Scripting Engine (NSE)
+## Enumerate Web Server Information using Nmap Scripting Engine (NSE)
 + Enumerate the directories used by web servers and web applications.
   ```
   nmap -sV --script=http-enum [target website]
@@ -46,7 +46,7 @@ httprecon is a tool for advanced web server fingerprinting. This tool performs b
 ```
 ![i](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/d1dcbb63-c34f-4687-8d30-63eac4065e41)
 
-# Uniscan Web Server Fingerprinting
+## Uniscan Web Server Fingerprinting
 Uniscan is a versatile server fingerprinting tool that not only performs simple commands like ping, traceroute, and nslookup, but also does static, dynamic, and stress checks on a web server. 
 + To search for dirtories
 ```
@@ -60,7 +60,7 @@ Uniscan is a versatile server fingerprinting tool that not only performs simple 
 
 Result are stored as a html page in uniscan directory with IP of the domain a file name.
 
-# Perform a Web Server Attack
+## Perform a Web Server Attack
 ## Crack FTP Credentials using a Dictionary Attack
 1. Perform nmap to check ftp is open in target server.
 ```
