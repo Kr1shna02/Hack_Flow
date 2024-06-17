@@ -25,5 +25,6 @@
 ### Wifi security auditing
 + Cisco Adaptive Wireless IPS
 + WatchGuard Wi-Fi Cloud WIPS
++ Bluetooth Firewall - https://www.fruitmobile.com/
 
  
