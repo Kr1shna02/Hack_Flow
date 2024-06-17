@@ -49,5 +49,5 @@
   + Bluetooth enable devices connects each other using pairing.
   + Bluetooth-enabled devices connect and communicate wirelessly through ad-hoc networks known as piconets.
   + Bluesmacking, Bluejacking, Bluesnarfing, Bluebugging, KNOB attack
-  + Btlejacking Using BtleJack
+  + Btlejacking Using BtleJack - https://github.com/virtualabs/btlejack
   + Cracking BLE Encryption Using crackle - https://github.com/mikeryan/crackle/
