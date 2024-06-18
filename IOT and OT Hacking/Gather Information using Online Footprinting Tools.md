@@ -9,3 +9,5 @@
     + Now we get the IP address of all the devices with 1883 port and we can get the detailed info.
 
       ![2](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/99ca6ecd-4ab4-481f-8e40-5f2e005beae5)
+
+    + Use advanced Shodan queries to search - https://www.shodan.io/search/examples
