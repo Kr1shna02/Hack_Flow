@@ -1,7 +1,7 @@
 ## Social Engineering Toolkit
  
-SET provides a range of social engineering attacks https://github.com/trustedsec/social-engineer-toolkit
-Other Phising tool - ShellPhish - https://github.com/richardsonjf/shellphish
++ SET provides a range of social engineering attacks https://github.com/trustedsec/social-engineer-toolkit
++ Other Phising tool - ShellPhish - https://github.com/richardsonjf/shellphish
 ### Credential Harvet attack
 
 + type ./settoolkit after downloding the repository
