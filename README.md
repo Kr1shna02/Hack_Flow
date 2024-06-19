@@ -1,1 +1,1 @@
-This repository includes different attack methods and hacking techniques typically employed in the ```CEHv12 exam```.
+The repository contains attack methods and hacking techniques in ```CEHv12 exam```.
