@@ -1,5 +1,4 @@
-## Footprinting
- 
+## Footprinting 
   + Whois lookup
   + Explitdb
   + FCC ID search - https://www.fcc.gov/oet/ea/fccid
@@ -14,12 +13,18 @@
       ![2](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/99ca6ecd-4ab4-481f-8e40-5f2e005beae5)
 
     + Use advanced Shodan queries to search - https://www.shodan.io/search/examples
+    + OT Information gathering
+      + SearchDiggity -  https://bishopfox.com 
+    ### OT control system
+
+       ![1](https://github.com/Kr1shna02/Hack_Flow/assets/117007783/87df6853-f298-4872-98c4-ddf3e309036f)
 
 ## Vulnerability scanning
  
   + Analyzing IoT Traffic using IoT Inspector - https://www.iot-inspector.com
   + Vulnerability Scanning using Retina IoT (RIoT) Scanner - https://www.beyondtrust.com
   + Wireshark
+  + OT Vulnerability scanning using nessus
 
 ## Attacks
   
@@ -30,3 +35,4 @@
     + Attacks- Replay, sniffing , jamming signals.
   + Side-Channel Attack using ChipWhisperer - https://newae.com
   + IoTVAS Fireware analysis tool - https://firmalyzer.com
+  + ICS Exploitation Framework (ISF) - https://github.com/dark-lbp/isf
